@@ -43,7 +43,7 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 |      BN1      |     Larawell     |Egyszerű Laravel szintaxis, ami megkíméli a back-end programozót a PHP szintaxis rémálmaitól, ezáltal megkímélve mentális és (a megspórolt órák által) fizikai egészségét.|
 |      BN2      |   QuickConnect   |Többszörösen optimalizált MySQL-hívások, hogy a naplózás extrém gyors legyen. A filozófiáját a Gentoo Linux operációs rendszer ihlette.                                   |
 |      BN3      |      SilkUI      |Lapos dizájn, maximális közérthetőség. A BetterNeptun felületének a lehető elérhetőbbnek kell lennie, még az informatikában laikusok között is.                           |
-|      BN4      |    LoginButler   |Az oldal bejelentkezés-kezelője. Segít bejlenetkezni és a felhasználó profilját CRUD-műveletekkel kezelni.                                                                |
+|      BN4      |    LoginButler   |Az oldal bejelentkezés-kezelője. Segít bejelentkezni és a felhasználó profilját CRUD-műveletekkel kezelni.                                                                |
 |      BN5      |   WhereIsWaldo   |A jelenlétet vezeti QR-kód beolvasásával és követi a hiányzásokat, igazolásokat.                                                                                          |
 |      BN6      |   AngellicPupil  |Ez a funkció vezeti a jegyeket a naplóba, mely kommunikál a QuickConnect-el és rajta keresztül kezeli a jegyek információját.                                             |
 |      BN7      |    MathMerlin    |Gyors matematikai (aritmetikai) logika, amely a (súlyozott) átlagokra és a (korrigált) kreditindexekre lett a végletekig optimalizálva.                                   |
