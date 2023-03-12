@@ -28,6 +28,8 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 
 ## Követelménylista
 
+![Funk  spec  követelmény lista](https://user-images.githubusercontent.com/78543866/224562808-9b42b662-58fa-489b-b0cb-907d17db120c.PNG)
+
 ## Használati esetek
 
 ## Használati eset - követelmény megfeleltetés
