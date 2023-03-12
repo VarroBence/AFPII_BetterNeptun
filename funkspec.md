@@ -38,6 +38,14 @@ Tanár: Jegyeket tud beírni a hallgatóknak.
 
 ## Használati eset - követelmény megfeleltetés
 
+Bejelentkezés (J1): A felhasználó bejelentkezés után a jogosultságának megfelelő funkciókat éri el. Hallgatóknál ez a tárgyfelvétel, órarend valamint átlag megtekintése. Tanároknál jegy beírás adott diáknak.
+
+Jogosultsági szintek(J2): A bejelentkezésnél megadott adatokat leellenőrzive a jogosultságának megfelelő funkciókat ér el a felhasználó.
+
+Jelszó módosítása (M1): A felhasználó módosítani tudja a jelszavát bejelentkezés után.
+
+Tárgy felvétel (F1): Bejelentkezés után a hallgató jogkörrel rendelkező felhaszanálók fel tudják venni a tárgyakat.
+
 ## Képernyőtervek
 
 ## Forgatókönyvek
