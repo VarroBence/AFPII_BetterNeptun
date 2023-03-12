@@ -25,3 +25,11 @@ Célunk az, hogy a lehető legjobb alternatívát nyújtsuk egyetemi tanároknak
 optimalizáció segítségével a lehető leggyorsabb és legstabilabb egyetemi naplórendzsert kívánjuk létrehozni, mely komoly konkurenciája lenne
 az SDA Informatika Zrt. megoldásainak. Ehhez többrétegű Unit-tesztelést végeznénk; egyetlen komoly, a használatot hátráltató hiba sem lehet
 a programban! A stabilitás a szíve-lelke csapatunk filozófiájának.
+
+## Jelenlegi üzleti folyamatok modellje
+
+A jelenlegi Neptun rendszer túlságosan is használhatatlan nagy terhelés esetén. Rengeteg hallgató nem tudja számára megfelelően felvenni a tárgyakat a tárgyfelvételi
+időszakban, hosszas várakozás után egy hibaüzenetet kapnak és próbálkozhatnak újra a bejelentkezéssel. Ha sikerül bejelentkezniük az sem garantálja, hogy fel tudják
+venni a tárgyakat, hiszen bármelyik pillanatban kidobhatja őket a rendszer. 15 perc után a hallgatót automatikusan kijelentkezteti a rendszer, amely egyáltalán nem
+praktikus. Ezek mellett maga a felület kissé elavult, rengeteg hasznos funkcióval lehet bővíteni a már meglévő rendszert, hogy megkönnyítsük a felhasználók dolgát és
+egyszerűbbé, átláthatóbbá tegyük az oldalt.
