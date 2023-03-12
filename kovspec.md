@@ -33,3 +33,7 @@ időszakban, hosszas várakozás után egy hibaüzenetet kapnak és próbálkozh
 venni a tárgyakat, hiszen bármelyik pillanatban kidobhatja őket a rendszer. 15 perc után a hallgatót automatikusan kijelentkezteti a rendszer, amely egyáltalán nem
 praktikus. Ezek mellett maga a felület kissé elavult, rengeteg hasznos funkcióval lehet bővíteni a már meglévő rendszert, hogy megkönnyítsük a felhasználók dolgát és
 egyszerűbbé, átláthatóbbá tegyük az oldalt.
+
+## Igényelt üzleti folyamatok modellje
+
+![Igényelt üzl  foly  mod](https://user-images.githubusercontent.com/78543866/224561721-713bd180-d994-4f39-9920-730034a4199a.png)
