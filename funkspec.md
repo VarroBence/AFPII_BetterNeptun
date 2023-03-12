@@ -32,6 +32,10 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 
 ## Használati esetek
 
+Hallgató: Bejelentkezés után megtekintheti az átlagát, órarendjét. Megváltoztathatja a jelszavát, valamint felvehet tárgyakat.
+
+Tanár: Jegyeket tud beírni a hallgatóknak.
+
 ## Használati eset - követelmény megfeleltetés
 
 ## Képernyőtervek
