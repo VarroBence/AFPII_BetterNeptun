@@ -28,7 +28,7 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 
 ## Követelménylista
 
-![Funk  spec  követelmény lista](https://user-images.githubusercontent.com/78543866/224562808-9b42b662-58fa-489b-b0cb-907d17db120c.PNG)
+![Funk  spec  Követelménylista](https://user-images.githubusercontent.com/78543866/224713674-b377c95e-afb1-44a5-9a1e-57e84daa199f.PNG)
 
 ## Használati esetek
 
