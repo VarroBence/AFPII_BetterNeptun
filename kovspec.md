@@ -25,3 +25,15 @@ Célunk az, hogy a lehető legjobb alternatívát nyújtsuk egyetemi tanároknak
 optimalizáció segítségével a lehető leggyorsabb és legstabilabb egyetemi naplórendzsert kívánjuk létrehozni, mely komoly konkurenciája lenne
 az SDA Informatika Zrt. megoldásainak. Ehhez többrétegű Unit-tesztelést végeznénk; egyetlen komoly, a használatot hátráltató hiba sem lehet
 a programban! A stabilitás a szíve-lelke csapatunk filozófiájának.
+
+## Követelménylista
+
+Funkcionális követelmények: tanár -> kurzusok böngészése, kurzus létrehozása/módodítása, tanulók értékelése, email küldése a kurzus résztvevőinek. vizsgák kiírása, 
+hallgató adatainak megtekintése
+diák -> kurzusok böngészése, kurzusok felvétele, haladás megtekintése, bejelentkezés,
+félév aktiválás - passziválás, szakkal kapcsolatos információk megtekintése
+	
+Nem-funkcionális követelmények: 2msp-nél rövidebb bejelentkezési idő, 2mspnél rövidebb tárgy listázás, biztonságos adattárolás,
+backup, adatvesztés megelőzése
+
+Felhasználói követelmények: sötét mód, angol nyelv, mobil-kompatibilitás
