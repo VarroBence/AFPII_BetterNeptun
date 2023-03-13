@@ -34,7 +34,11 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 
 ## Képernyőtervek
 
+Figmában fognak elkészülni a csapattal való egyeztetés után.
+
 ## Forgatókönyvek
+
+Nagyjából ugyanaz fog történni mint a Neptun-ban, a csapat eldönti mely funkciókat találja nélkülözhetőnek (feleslegesnek), mely funkciók maradnak, megbeszéljük a javítandó és az új funkciókat is.
 
 ## Funkció - követelmény megfeleltetés
 
@@ -50,3 +54,9 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 |      BN8      | AestheticCalendar|Jól kinéző és erőteljes naptár az órarend megtekintéséhez és kezeléséhez.                                                                                                 |
 
 ## Fogalomszótár
+
+MySQL - Adatbázis és kezelése: 
+Laravel - Backend
+HTML, CSS, JavaScript - Frontend: 
+Cypress - Tesztelés
+Figma - Képernyőtervek
