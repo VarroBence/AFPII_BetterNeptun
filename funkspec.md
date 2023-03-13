@@ -42,6 +42,14 @@ Bejelentkezés (J1): A felhasználó bejelentkezés után a jogosultságának me
 
 Jogosultsági szintek(J2): A bejelentkezésnél megadott adatokat leellenőrzive a jogosultságának megfelelő funkciókat ér el a felhasználó.
 
+Jelenlét vezetés - QR kód (J3): A hallgató bejelentkezés után QR kód beolvasása után igazolni tudja a jelenlétét.
+
+Hiányzás követés (J4): A hallgató fel tudja tölteni a hiányzását igazoló dokumentumot a rendszerbe, valamint követni tudja a hiányzásait.
+
+Jegyvezetés (J5): A hallgató meg tudja tekinteni a jegyeit.
+
+Átlagszámítás (J6): A hallgató ki tudja számítani az átlagát a rendszerben meglévő jegyek alapján.
+
 Jelszó módosítása (M1): A felhasználó módosítani tudja a jelszavát bejelentkezés után.
 
 Tárgy felvétel (F1): Bejelentkezés után a hallgató jogkörrel rendelkező felhaszanálók fel tudják venni a tárgyakat.
