@@ -28,9 +28,9 @@ a programban! A stabilitás a szíve-lelke csapatunk filozófiájának.
 
 ## Követelménylista
 
-Funkcionális követelmények: tanár -> kurzusok böngészése, kurzus létrehozása/módodítása, tanulók értékelése, email küldése a kurzus résztvevőinek. vizsgák kiírása, 
+Funkcionális követelmények: - tanár -> kurzusok böngészése, kurzus létrehozása/módodítása, tanulók értékelése, email küldése a kurzus résztvevőinek. vizsgák kiírása, 
 hallgató adatainak megtekintése
-diák -> kurzusok böngészése, kurzusok felvétele, haladás megtekintése, bejelentkezés,
+ - diák -> kurzusok böngészése, kurzusok felvétele, haladás megtekintése, bejelentkezés,
 félév aktiválás - passziválás, szakkal kapcsolatos információk megtekintése
 	
 Nem-funkcionális követelmények: 2msp-nél rövidebb bejelentkezési idő, 2mspnél rövidebb tárgy listázás, biztonságos adattárolás,
