@@ -93,6 +93,10 @@ Hiányzás igazolása page:
 
 ## Fizikai környezet
 
+Az alkalmazás egy olyan webes felületen készült, amely Laravel keretrendszeren fut, nincsenek megvásárol komponenseink.
+
+Fejlesztői eszközök: Visual Studio Code, XAMMP, PHP myadmin.
+
 ## Architekturális terv
 
 ## Implementációs terv
