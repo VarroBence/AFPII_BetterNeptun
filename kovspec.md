@@ -40,3 +40,32 @@ egyszerűbbé, átláthatóbbá tegyük az oldalt.
 ## Követelménylista
 
 ![Funk  spec  Követelménylista](https://user-images.githubusercontent.com/78543866/226204879-9c1e92aa-9049-4833-a60d-5a045bc3dbff.PNG)
+
+## Fogalomtár
+
+MySQL: SQL alapú relációs adatbázis-kezelő szerver.
+
+Back-end: A programoknak, weboldalaknak a hátsó, a felhasználó elől rejtett, a tényleges számításokat végző része. Feladata a front‑end (a felhasználóval kapcsolatban
+lévő rész) felől érkező adatok feldolgozása, és az eredményeknek a front‑end felé történő visszajuttatása.
+
+Front-end: A programoknak, weboldalaknak az a része, amelyik a felhasználóval közvetlenül kapcsolatban van. Feladata az adatok megjelenése, befogadása a felhasználó
+(vagy ritkábban egy másik rendszer) felől.
+
+Laravel: Ingyenes és nyílt forráskódú PHP webes keretrendszer.
+
+PHP: Általános szerveroldali szkriptnyelv dinamikus weblapok készítésére.
+
+HTML: Egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, és mára már internetes szabvánnyá vált a W3C támogatásával.
+
+W3C: A World Wide Web Consortium egy konzorcium, mely nyílt szoftver szabványokat alkot a világhálóra.
+
+CSS: A Cascading Style Sheets egy stíluslapnyelv, amelyet egy jelölőnyelven, például HTML-en vagy XML-en írt dokumentumok megjelenítésének leírására használnak. A CSS
+a World Wide Web egyik sarokköve a HTML és a JavaScript mellett.
+
+XML: Az XML a W3C által ajánlott általános célú leíró nyelv, speciális célú leíró nyelvek létrehozására.
+
+JavaScript: A JavaScript programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak.
+
+Unit-teszt: A legalacsonyabb szintű tesztelés. A részegységeket egyesével tesztelik le.
+
+Cypress: Egy előtérbeli tesztelőeszköz webes alkalmazásokhoz.
