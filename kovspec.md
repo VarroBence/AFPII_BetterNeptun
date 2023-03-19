@@ -7,7 +7,7 @@ A weboldalt többféle programozási technológia felhasználásával készítj�
 
 - Adatbázis és kezelése: MySQL
 - Back-end: Laravel (a háttérben a PHP dolgozza fel a Laravel-szintaxist)
-- Front-end: HTML, CSS, JavaScriptű
+- Front-end: HTML, CSS, JavaScript
 - Unit-tesztelés: Cypress 
 
 ## A jelenlegi helyzet leírása
@@ -22,7 +22,7 @@ mely gyorsabb és megbízhatóbb lesz.
 ## Vágyálomrendszer
 
 Célunk az, hogy a lehető legjobb alternatívát nyújtsuk egyetemi tanároknak és hallgatóknak egyaránt. Maximális odafigyeléssel és többszörös
-optimalizáció segítségével a lehető leggyorsabb és legstabilabb egyetemi naplórendzsert kívánjuk létrehozni, mely komoly konkurenciája lenne
+optimalizáció segítségével a lehető leggyorsabb és legstabilabb egyetemi naplórendszert kívánjuk létrehozni, mely komoly konkurenciája lenne
 az SDA Informatika Zrt. megoldásainak. Ehhez többrétegű Unit-tesztelést végeznénk; egyetlen komoly, a használatot hátráltató hiba sem lehet
 a programban! A stabilitás a szíve-lelke csapatunk filozófiájának.
 
@@ -34,7 +34,7 @@ venni a tárgyakat, hiszen bármelyik pillanatban kidobhatja őket a rendszer. 1
 praktikus. Ezek mellett maga a felület kissé elavult, rengeteg hasznos funkcióval lehet bővíteni a már meglévő rendszert, hogy megkönnyítsük a felhasználók dolgát és
 egyszerűbbé, átláthatóbbá tegyük az oldalt.
 
-## Igénylet üzleti folyamatok modellje
+## Igényelt üzleti folyamatok modellje
 ![Igényelt üzl  foly  mod](https://user-images.githubusercontent.com/78543866/226204795-c97ec319-8de0-4bc5-ade3-f46e49bb8886.png)
 
 ## Követelménylista
