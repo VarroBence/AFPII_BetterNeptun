@@ -30,6 +30,8 @@ Tesztelő: Göröcs Lajos Zsolt, Varró Bence
 
 ## Üzleti folyamatok modellje
 
+![Rendszert  - Üzl  foly  mod](https://user-images.githubusercontent.com/78543866/226214150-f9f85efe-f5b9-4390-9ed4-5e384eeccce9.PNG)
+
 ## Követelmények
 
 ## Funkcionális terv
