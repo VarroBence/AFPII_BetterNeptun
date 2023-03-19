@@ -34,6 +34,19 @@ Tesztelő: Göröcs Lajos Zsolt, Varró Bence
 
 ## Követelmények
 
+### Funkcionális követelmények
+
+- Felhasználók adatainak tárolása
+- Jelenlét igazolása QR beolvasásával
+- Hiányzás igazolás
+- Órarend
+- Jegyvezetés
+- Átlagszámítás
+
+### Nem funkcionális követelmények
+
+- A felhasználók nem férhetnek hozzá egymás órarendjéhez/jegyeihez/igazolásaihoz
+
 ## Funkcionális terv
 
 ### Rendszerszerepkörök
