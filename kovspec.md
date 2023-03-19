@@ -35,4 +35,4 @@ praktikus. Ezek mellett maga a felület kissé elavult, rengeteg hasznos funkci�
 egyszerűbbé, átláthatóbbá tegyük az oldalt.
 
 ## Igénylet üzleti folyamatok modellje
-![Igényelt üzl  foly  mod](https://user-images.githubusercontent.com/78543866/224563681-2a082e4e-23ac-436e-b7a2-a6cce888f187.png)
+![Igényelt üzl  foly  mod](https://user-images.githubusercontent.com/78543866/226204795-c97ec319-8de0-4bc5-ade3-f46e49bb8886.png)
