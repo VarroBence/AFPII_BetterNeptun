@@ -30,6 +30,9 @@ mert nem tudják átszervezni másik csoportba magukat.
 
 ## Igényelt üzleti folyamatok modellje
 
+Azért, hogy zökkenőmentesebbé és egyszerűbbé tegyük a hallagatók tanulmányait, újradolgozzuk a jelenlegi Neptun rendszert, hogy ne okozzon senkinek sem problémát az
+egyetemi tanulmányaiban a tárgyfelvétel. A hallgatóknak nem kell amiatt aggódniuk majd, hogy nem engedi be őket a rendszer, vagy esetleg a tárgyfelvétel közepén kidobja őket és kezdhetnek mindent előlről.
+
 ## Követelménylista
 
 ![Funk  spec  Követelménylista](https://user-images.githubusercontent.com/78543866/224713674-b377c95e-afb1-44a5-9a1e-57e84daa199f.PNG)
