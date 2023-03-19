@@ -5,7 +5,7 @@
 A rendszer célja, hogy egy modernebb, gyorsabb szintre hozza a jelenlegi Neptun rendszert. A hallgatók a letisztult kinézettel felújított felületen tisztán tudnak
 navigálni. A rendszer nem dobja ki őket akkor sem, amikor rengetegen próbálnak egyszerre például tárgyakat felvenni. Nincsen bejelentkezési időkörlát, így nem kell
 sietve elvégezni a dolgokat az oldalon. Egyszerűen kiszámítható a hallgató átlaga egy külön, erre a célra szánt oldalon. Az órarendjét tisztán átlátja a hallgató,
-hiányzásait igazoló papírokat egyszerűen fel tudja tölteni, ezzel igazolva távollétének okát. Ezek mellett a gyakorlaton való jelenlét rögzítése egy egyszerű QR kód
+hiányzásait igazoló papírokat egyszerűen fel tudja tölteni, ezzel igazolva távollétének okát. Ezek mellett a gyakorlaton való jelenlét rögzítése egyszerűen egy QR kód
 beolvasásával történik.
 
 ## Projektterv
@@ -38,14 +38,14 @@ Tesztelő: Göröcs Lajos Zsolt, Varró Bence
 
 - Felhasználók adatainak tárolása
 - Jelenlét igazolása QR beolvasásával
-- Hiányzás igazolás
+- Hiányzást igazoló dokumentum feltöltése
 - Órarend
 - Jegyvezetés
 - Átlagszámítás
 
 ### Nem funkcionális követelmények
 
-- A felhasználók nem férhetnek hozzá egymás órarendjéhez/jegyeihez/igazolásaihoz
+- A felhasználók nem férhetnek hozzá egymás órarendjéhez/jegyeihez/igazolásaihoz.
 
 ## Funkcionális terv
 
@@ -93,7 +93,7 @@ Hiányzás igazolása page:
 
 ## Fizikai környezet
 
-Az alkalmazás egy olyan webes felületen készült, amely Laravel keretrendszeren fut, nincsenek megvásárol komponenseink.
+Az alkalmazás egy olyan webes felületen készült, amely Laravel keretrendszeren fut, nincsenek megvásárolt komponenseink.
 
 Fejlesztői eszközök: Visual Studio Code, XAMMP, PHP myadmin.
 
@@ -103,7 +103,7 @@ Front-end: BootStrap Studio
 
 Back-end:
 
-- A back-end fejlesztéséhez szükséges egy adatbázis szerver, amit MySQL-lel valósítuttuk meg.
+- A back-end fejlesztéséhez szükséges egy adatbázis szerver, amit MySQL-el valósítuttunk meg.
 - Laravel framework a szabványos fájlkezelés és összetettebb fejlesztési lehetőségek végett.
 - PHP
 
