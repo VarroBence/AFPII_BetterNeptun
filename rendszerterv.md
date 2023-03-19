@@ -49,11 +49,47 @@ Tesztelő: Göröcs Lajos Zsolt, Varró Bence
 
 ## Funkcionális terv
 
-### Rendszerszerepkörök
+### Rendszerszereplők
+
+Hallgató, Admin
 
 ### Rendszerhasználati esetek és lefutásaik
 
+Admin:
+
+- Beléphet bármilyen szereplőként teljes hozzáférése van a rendszerhez
+- Tárgyak törlése/módosítása
+
+Hallgató:
+
+- Meg tekintheti az órarendjét
+- Ki tudja számítani az átlagát
+- QR kód beolvasásával igazolni tudja hogy jelen volt az órán
+- Hiányzását igazolni tudja az igazoló dokumentum feltöltésével
+
 ### Menühierarchiák
+
+Main page:
+
+- Órarend megjelenítése
+- Átlag kiszámítása gomb
+- Jelenlét gomb
+- Hiányzás igazolása gomb
+
+Átlag kiszámítása page:
+
+- Input mezők az átlag kiszámításához szükséges jegyeknek
+- Main page gomb
+- Jelenlét gomb
+- Hiányzás igazolása gomb
+
+Jelenlét page:
+
+- Beolvasandó QR kód megjelenítése
+
+Hiányzás igazolása page:
+
+- Input mező a hiányzást igazoló dokumentum feltöltéséhez
 
 ## Fizikai környezet
 
