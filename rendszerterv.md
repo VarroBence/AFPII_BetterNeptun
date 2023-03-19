@@ -115,6 +115,8 @@ a keretrendszer által biztosított lehetőségekkel különítettük el.
 
 ## Adatbázis terv
 
+![Rendszerterv - adatb  terv](https://user-images.githubusercontent.com/78543866/226215510-19d4a8e9-58a2-409e-ae96-7257268231e6.png)
+
 ## Teszt terv
 
 ## Telepítési terv
