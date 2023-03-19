@@ -24,6 +24,10 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 
 ## Jelenlegi üzleti folyamatok modellje
 
+A Neptun rendszere túlságosan is ingatag nagy terhelés esetén, legfőképpen tárgyfelvételi időszakban. Számos hallgató nem tudja megfelelően rendezni így az órarendjét
+és többszörös óraütközések jelennek meg az órarendekben. Ennek következtében a hallgatók kénytelenek kihagyni előadásokat, vagy rosszabb esetben, leadni gyakorlatokat,
+mert nem tudják átszervezni másik csoportba magukat.
+
 ## Igényelt üzleti folyamatok modellje
 
 ## Követelménylista
