@@ -12,9 +12,21 @@ beolvasásával történik.
 
 ### Projektszerepkörök, felelősségek
 
+Product owner: Bagoly Gábor
+
+Scrum master: Molnár László
+
 ### Projektmunkások és felelősségek
 
+Design: Göröcs Lajos Zsolt, Varró Bence
+
+Developer: Göröcs Lajos Zsolt, Varró Bence
+
+Tesztelő: Göröcs Lajos Zsolt, Varró Bence
+
 ### Ütemterv
+
+![Ütemterv](https://user-images.githubusercontent.com/78543866/226213791-68d31345-75af-4e81-a3e6-b3e412c5e458.PNG)
 
 ## Üzleti folyamatok modellje
 
