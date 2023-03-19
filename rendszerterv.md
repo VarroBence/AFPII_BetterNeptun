@@ -109,6 +109,10 @@ Back-end:
 
 ## Implementációs terv
 
+A webes felület főként Php nyelven íródott minimális JavaScript alkalmazásával és Laravel keretrendszerrel. Ezeket a technológiákat amennyire csak lehet külön fájlokba
+írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. Az oldalakat és azokat vezérlő fájlokat
+a keretrendszer által biztosított lehetőségekkel különítettük el.
+
 ## Adatbázis terv
 
 ## Teszt terv
