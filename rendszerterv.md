@@ -119,6 +119,24 @@ a keretrendszer által biztosított lehetőségekkel különítettük el.
 
 ## Teszt terv
 
+Tesztelendő Windows rendszerek: Windows 10, vagy újabbak.
+
+Tesztelendő kijelző méretek: 1280x720 (minimum), 1366x768, 1920x1080.
+
+A tesztelés időtartama egy hét.
+
+### Tesztelendő funkciók
+
+Hallgató:
+
+- QR kód beolvasásával igazolni tudja jelenlétét.
+- Fel tudja tölteni a hiányzását igazoló dokumentumot.
+- Ki tudja számítani az átlagát jegyeinek megadásával.
+
+Admin:
+
+- Képes tárgyakat törölni.
+
 ## Telepítési terv
 
 ## Karbantartási terv
