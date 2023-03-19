@@ -65,6 +65,11 @@ Tárgy felvétel (F1): Bejelentkezés után a hallgató jogkörrel rendelkező f
 
 ## Forgatókönyvek
 
+Az oldal megnyitásakor a felhasználót a bejelentkezési felület fogadja. A helyes adatok megadása esetén, ha hallgató jogosultságú felhasználó jelentkezett be, akkor az
+órarend oldalát látja. Az "átlag kiszámítása" gombra kattintva megjelenik az átlag kiszámítására alkalmas felület. A "jelenlét igazolása" gombra kattintva megjelenik a
+szükséges QR-kód, amelynek beolvasásával igazolni tudja a hallgató hogy jelen volt az órán. A "hiányzás igazolása" gombra kattintva a hallgató feltöltheti az
+igazolásának képét, amellyel igazolni tudja hiányzását.
+
 ## Funkció - követelmény megfeleltetés
 
 |	Azonosító	|	Követelmény    |                                                                                   Funkció                                                                                |
