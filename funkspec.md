@@ -84,3 +84,7 @@ igazolásának képét, amellyel igazolni tudja hiányzását.
 |      BN8      | AestheticCalendar|Jól kinéző és erőteljes naptár az órarend megtekintéséhez és kezeléséhez.                                                                                                 |
 
 ## Fogalomszótár
+
+Unit-teszt: A legalacsonyabb szintű tesztelés. A részegységeket egyesével tesztelik le.
+
+CRUD műveletek: Egy adattáblán elvégezhető műveletek: létrehozás, olvasás, szerkesztés, törlés.
