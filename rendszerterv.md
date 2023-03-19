@@ -99,6 +99,14 @@ Fejlesztői eszközök: Visual Studio Code, XAMMP, PHP myadmin.
 
 ## Architekturális terv
 
+Front-end: BootStrap Studio
+
+Back-end:
+
+- A back-end fejlesztéséhez szükséges egy adatbázis szerver, amit MySQL-lel valósítuttuk meg.
+- Laravel framework a szabványos fájlkezelés és összetettebb fejlesztési lehetőségek végett.
+- PHP
+
 ## Implementációs terv
 
 ## Adatbázis terv
