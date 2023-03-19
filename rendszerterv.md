@@ -160,3 +160,7 @@ Az itt kapott címet kimásolva és beillesztve a böngészőbe megjeleníthetj�
 ![image](https://user-images.githubusercontent.com/103049058/206265860-431d3de4-fe0c-4adb-9efe-92ed78f8ecb7.png)
 
 ## Karbantartási terv
+
+A weboldal folyamatos üzemeltetése és karbantartása, mely magában foglalja a belső igények változása miatti módosításokat és a környezeti feltételek változása miatt
+megfogalmazott program-, illetve állomány módosítási igényeket. Ellenőrizni kell, hogy a jövőben kiadott Windows és böngésző verziókkal kompatibilis-e a weboldal. Idő
+elteltével új opciókat kell hozzáadni a felülethez, hogy fent tartsuk az érdeklődési szintet.
