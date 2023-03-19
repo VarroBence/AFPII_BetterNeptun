@@ -36,3 +36,7 @@ egyszerűbbé, átláthatóbbá tegyük az oldalt.
 
 ## Igénylet üzleti folyamatok modellje
 ![Igényelt üzl  foly  mod](https://user-images.githubusercontent.com/78543866/226204795-c97ec319-8de0-4bc5-ade3-f46e49bb8886.png)
+
+## Követelménylista
+
+![Funk  spec  Követelménylista](https://user-images.githubusercontent.com/78543866/226204879-9c1e92aa-9049-4833-a60d-5a045bc3dbff.PNG)
