@@ -7,7 +7,7 @@ Nagy terhelés esetén, pl. a tárgyfelvételi időszak első napján lefagy, la
 Idegesítő 15 perces bejelenkezési limit van rajta, ami már személyesen is megkeserítette az életemet, a mobilos applikáció pedig nem
 volt elérhető Eszerházy-s diákoknak, egészen a 2022/23-as tanév 2. félévéig, ami mobilon nehezen kezelhetővé tette a felületet
 (ezt csak iOS-en tudom megerősíteni, a régi androidos telefonomra még nem töltöttem le az alkalmazást).
-Ezen kellemetlenségek miatt határoztuk el, hogy teljesítsük ezen megrendelést és elkészítsük a BetterNeptun-t: egy teljes újraírást,
+Az ilyen kellemetlenségek miatt határoztuk el, hogy teljesítsük ezen megrendelést és elkészítsük a BetterNeptun-t: egy teljes újraírást,
 mely gyorsabb és megbízhatóbb lesz, szebb kezelőfelülettel és a közösség által legjobban igényelt funkciókkal, melyeknél fontos a tanárok és
 hallgatók véleménye ahhoz, hogy leimplementáljuk őket.
 
@@ -39,15 +39,17 @@ egyetemi tanulmányaiban a tárgyfelvétel. A hallgatóknak nem kell amiatt agg�
 
 ## Használati esetek
 
-Hallgató: Bejelentkezés után megtekintheti az átlagát, órarendjét. Megváltoztathatja a jelszavát, valamint felvehet tárgyakat.
+Hallgató: Bejelentkezés után kiszámíthatja az átlagát, megtekintheti az órarendjét, QR kóddal jelezheti jelenlétét és hiányzását a megfelelő dokumentum feltöltésével
+igazolhatja.
 
-Tanár: Jegyeket tud beírni a hallgatóknak.
+Tanár: Tárgyakat tud törölni.
 
 ## Használati eset - követelmény megfeleltetés
 
-Bejelentkezés (J1): A felhasználó bejelentkezés után a jogosultságának megfelelő funkciókat éri el. Hallgatóknál ez a tárgyfelvétel, órarend valamint átlag megtekintése. Tanároknál jegy beírás adott diáknak.
+Bejelentkezés (J1): A felhasználó bejelentkezés után a jogosultságának megfelelő funkciókat éri el. Hallgatóknál ez a QR kód beolvasása, hiányzás igazoló papír
+feltöltése, órarend valamint átlag megtekintése és jelszó módosítása. Tanároknál adott tárgy törlése.
 
-Jogosultsági szintek(J2): A bejelentkezésnél megadott adatokat leellenőrzive a jogosultságának megfelelő funkciókat ér el a felhasználó.
+Jogosultsági szintek (J2): A bejelentkezésnél megadott adatokat leellenőrzive a jogosultságának megfelelő funkciókat ér el a felhasználó.
 
 Jelenlét vezetés - QR kód (J3): A hallgató bejelentkezés után QR kód beolvasása után igazolni tudja a jelenlétét.
 
@@ -59,7 +61,7 @@ Jegyvezetés (J5): A hallgató meg tudja tekinteni a jegyeit.
 
 Jelszó módosítása (M1): A felhasználó módosítani tudja a jelszavát bejelentkezés után.
 
-Tárgy felvétel (F1): Bejelentkezés után a hallgató jogkörrel rendelkező felhaszanálók fel tudják venni a tárgyakat.
+Tárgy felvétel (F1): Bejelentkezés után a hallgató jogkörrel rendelkező felhaszanálók fel tudják venni a tárgyakat az órarendjükbe.
 
 ## Képernyőtervek
 
