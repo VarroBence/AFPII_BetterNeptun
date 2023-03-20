@@ -39,7 +39,15 @@ egyszerűbbé, átláthatóbbá tegyük az oldalt.
 
 ## Követelménylista
 
-![Funk  spec  Követelménylista](https://user-images.githubusercontent.com/78543866/226204879-9c1e92aa-9049-4833-a60d-5a045bc3dbff.PNG)
+Funkcionális követelmények: - tanár -> kurzusok böngészése, kurzus létrehozása/módodítása, tanulók értékelése, email küldése a kurzus résztvevőinek. vizsgák kiírása, 
+hallgató adatainak megtekintése
+ - diák -> kurzusok böngészése, kurzusok felvétele, haladás megtekintése, bejelentkezés,
+félév aktiválás - passziválás, szakkal kapcsolatos információk megtekintése
+	
+Nem-funkcionális követelmények: 2msp-nél rövidebb bejelentkezési idő, 2mspnél rövidebb tárgy listázás, biztonságos adattárolás,
+backup, adatvesztés megelőzése
+
+Felhasználói követelmények: sötét mód, angol nyelv, mobil-kompatibilitás
 
 ## Fogalomtár
 

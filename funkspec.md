@@ -65,6 +65,8 @@ Tárgy felvétel (F1): Bejelentkezés után a hallgató jogkörrel rendelkező f
 
 ## Képernyőtervek
 
+Figmában fognak elkészülni a csapattal való egyeztetés után.
+
 ## Forgatókönyvek
 
 Az oldal megnyitásakor a felhasználót a bejelentkezési felület fogadja. A helyes adatok megadása esetén, ha hallgató jogosultságú felhasználó jelentkezett be, akkor az
@@ -87,6 +89,10 @@ igazolásának képét, amellyel igazolni tudja hiányzását.
 
 ## Fogalomszótár
 
-Unit-teszt: A legalacsonyabb szintű tesztelés. A részegységeket egyesével tesztelik le.
-
-CRUD műveletek: Egy adattáblán elvégezhető műveletek: létrehozás, olvasás, szerkesztés, törlés.
+Unit-teszt - A legalacsonyabb szintű tesztelés. A részegységeket egyesével tesztelik le.
+CRUD műveletek - Egy adattáblán elvégezhető műveletek: létrehozás, olvasás, szerkesztés, törlés.
+MySQL - Adatbázis és kezelése
+Laravel - Backend
+HTML, CSS, JavaScript - Frontend
+Cypress - Tesztelés
+Figma - Képernyőtervek
