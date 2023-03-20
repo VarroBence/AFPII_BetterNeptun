@@ -7,7 +7,7 @@ Nagy terhelés esetén, pl. a tárgyfelvételi időszak első napján lefagy, la
 Idegesítő 15 perces bejelenkezési limit van rajta, ami már személyesen is megkeserítette az életemet, a mobilos applikáció pedig nem
 volt elérhető Eszerházy-s diákoknak, egészen a 2022/23-as tanév 2. félévéig, ami mobilon nehezen kezelhetővé tette a felületet
 (ezt csak iOS-en tudom megerősíteni, a régi androidos telefonomra még nem töltöttem le az alkalmazást).
-Ezen kellemetlenségek miatt határoztuk el, hogy teljesítsük ezen megrendelést és elkészítsük a BetterNeptun-t: egy teljes újraírást,
+Az ilyen kellemetlenségek miatt határoztuk el, hogy teljesítsük ezen megrendelést és elkészítsük a BetterNeptun-t: egy teljes újraírást,
 mely gyorsabb és megbízhatóbb lesz, szebb kezelőfelülettel és a közösség által legjobban igényelt funkciókkal, melyeknél fontos a tanárok és
 hallgatók véleménye ahhoz, hogy leimplementáljuk őket.
 
@@ -24,13 +24,44 @@ A kezelőfelület letisztult lenne, mely a mai lapos/féllapos dizájnok elveit 
 
 ## Jelenlegi üzleti folyamatok modellje
 
+A Neptun rendszere túlságosan is ingatag nagy terhelés esetén, legfőképpen tárgyfelvételi időszakban. Számos hallgató nem tudja megfelelően rendezni így az órarendjét
+és többszörös óraütközések jelennek meg az órarendekben. Ennek következtében a hallgatók kénytelenek kihagyni előadásokat, vagy rosszabb esetben, leadni gyakorlatokat,
+mert nem tudják átszervezni másik csoportba magukat.
+
 ## Igényelt üzleti folyamatok modellje
+
+Azért, hogy zökkenőmentesebbé és egyszerűbbé tegyük a hallagatók tanulmányait, újradolgozzuk a jelenlegi Neptun rendszert, hogy ne okozzon senkinek sem problémát az
+egyetemi tanulmányaiban a tárgyfelvétel. A hallgatóknak nem kell amiatt aggódniuk majd, hogy nem engedi be őket a rendszer, vagy esetleg a tárgyfelvétel közepén kidobja őket és kezdhetnek mindent előlről.
 
 ## Követelménylista
 
+![Funk  spec  Követelménylista](https://user-images.githubusercontent.com/78543866/224713674-b377c95e-afb1-44a5-9a1e-57e84daa199f.PNG)
+
 ## Használati esetek
 
+Hallgató: Bejelentkezés után kiszámíthatja az átlagát, megtekintheti az órarendjét, QR kóddal jelezheti jelenlétét és hiányzását a megfelelő dokumentum feltöltésével
+igazolhatja.
+
+Tanár: Tárgyakat tud törölni.
+
 ## Használati eset - követelmény megfeleltetés
+
+Bejelentkezés (J1): A felhasználó bejelentkezés után a jogosultságának megfelelő funkciókat éri el. Hallgatóknál ez a QR kód beolvasása, hiányzás igazoló papír
+feltöltése, órarend valamint átlag megtekintése és jelszó módosítása. Tanároknál adott tárgy törlése.
+
+Jogosultsági szintek (J2): A bejelentkezésnél megadott adatokat leellenőrzive a jogosultságának megfelelő funkciókat ér el a felhasználó.
+
+Jelenlét vezetés - QR kód (J3): A hallgató bejelentkezés után QR kód beolvasása után igazolni tudja a jelenlétét.
+
+Hiányzás követés (J4): A hallgató fel tudja tölteni a hiányzását igazoló dokumentumot a rendszerbe, valamint követni tudja a hiányzásait.
+
+Jegyvezetés (J5): A hallgató meg tudja tekinteni a jegyeit.
+
+Átlagszámítás (J6): A hallgató ki tudja számítani az átlagát a rendszerben meglévő jegyek alapján.
+
+Jelszó módosítása (M1): A felhasználó módosítani tudja a jelszavát bejelentkezés után.
+
+Tárgy felvétel (F1): Bejelentkezés után a hallgató jogkörrel rendelkező felhaszanálók fel tudják venni a tárgyakat az órarendjükbe.
 
 ## Képernyőtervek
 
@@ -38,7 +69,10 @@ Figmában fognak elkészülni a csapattal való egyeztetés után.
 
 ## Forgatókönyvek
 
-Nagyjából ugyanaz fog történni mint a Neptun-ban, a csapat eldönti mely funkciókat találja nélkülözhetőnek (feleslegesnek), mely funkciók maradnak, megbeszéljük a javítandó és az új funkciókat is.
+Az oldal megnyitásakor a felhasználót a bejelentkezési felület fogadja. A helyes adatok megadása esetén, ha hallgató jogosultságú felhasználó jelentkezett be, akkor az
+órarend oldalát látja. Az "átlag kiszámítása" gombra kattintva megjelenik az átlag kiszámítására alkalmas felület. A "jelenlét igazolása" gombra kattintva megjelenik a
+szükséges QR-kód, amelynek beolvasásával igazolni tudja a hallgató hogy jelen volt az órán. A "hiányzás igazolása" gombra kattintva a hallgató feltöltheti az
+igazolásának képét, amellyel igazolni tudja hiányzását.
 
 ## Funkció - követelmény megfeleltetés
 
@@ -55,8 +89,10 @@ Nagyjából ugyanaz fog történni mint a Neptun-ban, a csapat eldönti mely fun
 
 ## Fogalomszótár
 
-MySQL - Adatbázis és kezelése: 
+Unit-teszt - A legalacsonyabb szintű tesztelés. A részegységeket egyesével tesztelik le.
+CRUD műveletek - Egy adattáblán elvégezhető műveletek: létrehozás, olvasás, szerkesztés, törlés.
+MySQL - Adatbázis és kezelése
 Laravel - Backend
-HTML, CSS, JavaScript - Frontend: 
+HTML, CSS, JavaScript - Frontend
 Cypress - Tesztelés
 Figma - Képernyőtervek
